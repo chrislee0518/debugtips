@@ -1,0 +1,2 @@
+# debugtips
+C_debug
